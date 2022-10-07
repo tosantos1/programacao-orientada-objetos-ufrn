@@ -17,6 +17,4 @@ Tecnologias utilizadas
  
 # Primeiro layout
 
-<p align="center">
-  <img src="POO.png" width="140px" />
-</p>
+  <img src="./P5game/POO.png" />
