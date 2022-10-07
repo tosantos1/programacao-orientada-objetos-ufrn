@@ -18,5 +18,5 @@ Tecnologias utilizadas
 # Primeiro layout
 
 <p align="center">
-  <img src="./POO.png" width="140px" />
+  <img src="POO.png" width="140px" />
 </p>
