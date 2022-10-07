@@ -1,7 +1,12 @@
 # 🎮 Jogo da cobrinha
 
+- Primeira versão do jogo está presente apenas o primeiro corpo com movimentação e colisão
 
-# O que nós usamos?
+## Proximas versões
+
+- Quando a bolinha entrar em contato com outra bolinha vai surgir somar ao corpo da bolinha atual
+
+# O que usei?
 
 Tecnologias utilizadas
 
@@ -10,3 +15,8 @@ Tecnologias utilizadas
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) 
  
+# Primeiro layout
+
+<p align="center">
+  <img src="./POO.png" width="140px" />
+</p>
